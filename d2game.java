@@ -1,4 +1,3 @@
-//Day 5
 import java.util.*;
 
 class d2game 
@@ -99,4 +98,5 @@ class d2game
 
         
     }
+
 }
