@@ -1,4 +1,3 @@
-//Day 16
 import java.util.*;
 class matrix_add
 {
