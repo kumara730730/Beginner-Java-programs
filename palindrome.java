@@ -1,5 +1,3 @@
-//Day 14
-
 import java.util.*;
 class palindrome
 {
