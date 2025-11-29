@@ -1,5 +1,3 @@
-//Day 12
-
 import java.util.*;
 class insertion_sort
 {
