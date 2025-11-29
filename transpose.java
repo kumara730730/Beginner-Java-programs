@@ -1,4 +1,3 @@
-//Day 7
 import java.util.*;
 class transpose
 {
@@ -36,4 +35,5 @@ class transpose
             System.out.println();
         }
     }
+
 }
