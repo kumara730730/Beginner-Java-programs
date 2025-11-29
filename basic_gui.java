@@ -1,4 +1,3 @@
-//Day 17
 import javax.swing.JOptionPane;
 class basic_gui
 {
