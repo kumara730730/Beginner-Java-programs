@@ -1,5 +1,3 @@
-//Day 4
-
 import java.util.*;
 class reverse
 {
@@ -18,4 +16,5 @@ class reverse
         
         System.out.println("Reversed string: "+reversed);
     }
+
 }
