@@ -1,4 +1,3 @@
-//Day 11
 import java.util.*;
 class selection_sort
 {
@@ -48,4 +47,5 @@ class selection_sort
             System.out.print(a[i]+"  ");
         }
     }
+
 }
