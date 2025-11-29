@@ -1,5 +1,3 @@
-//Day 2
-
 import java.util.*;
 class factorial
 {
@@ -30,4 +28,5 @@ class factorial
             return 1;
         return factorial(i-1)*i;
     }
+
 }
