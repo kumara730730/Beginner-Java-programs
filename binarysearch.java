@@ -1,4 +1,3 @@
-//Day 9
 import java.util.*;
 class binary_search
 {
@@ -58,4 +57,5 @@ class binary_search
             System.out.println(s+" found at position "+pos);
         }
     }
+
 }
