@@ -1,4 +1,3 @@
-//Day 13
 import java.util.*;
 class second_largest_smallest
 {
