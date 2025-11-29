@@ -1,4 +1,3 @@
-//Day 8
 import java.util.*;
 class linear_search
 {
@@ -46,4 +45,5 @@ class linear_search
             System.out.println(s+" found at position "+pos);
         }
     }
+
 }
