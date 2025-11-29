@@ -1,5 +1,3 @@
-//Day 3
-
 import java.util.*;
 class fibonacci
 {
@@ -31,4 +29,5 @@ class fibonacci
             num--;
         }while(num>0);
     }
+
 }
