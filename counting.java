@@ -1,4 +1,3 @@
-//Day 15
 import java.util.*;
 class counting
 {
