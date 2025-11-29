@@ -1,5 +1,3 @@
-//Day 6
-
 import java.util.*;
 class prime
 {
@@ -42,4 +40,5 @@ class prime
             System.out.println(num + " is not a Prime number.");
         }
     }
+
 }
